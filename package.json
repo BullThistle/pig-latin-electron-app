@@ -1,0 +1,8 @@
+{
+  "name": "First Electron App",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "electron-version": "^1.7.5"
+  }
+}
